@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ari Muayad</h1>
-<h3 align="center">I look at the computer as it is my soul mate. It's the best relationship I ever had.</h3>
+<h3 align="center">I look at the computer like it is my soul mate. It's the best relationship I ever had.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areyxo&label=Profile%20views&color=0e75b6&style=flat" alt="areyxo" /> </p>
 
