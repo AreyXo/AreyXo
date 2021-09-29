@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ari Muayad</h1>
+<h1 align="center">Hi ✌, I'm Ari Muayad</h1>
 <h3 align="center">I look at the computer like it is my soul mate. It's the best relationship I ever had.</h3>
 
  
